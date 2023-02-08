@@ -1,0 +1,10 @@
+aleksandr;lemeshev;iu7-32b;0;19;4.2;1;2;2002;0;5;804;
+vladislav;marchenko;iu7-33b;1;18;4.7;21;3;2003;1;pynki;21;7;
+damir;narandaev;iu7-32b;0;18;4.33;17;4;2002;0;5;809;
+dmitry;morozov;iu7-32b;0;18;5;22;7;2002;0;5;809;
+sophie;rosheva;iu7-13b;1;17;3;10;12;2003;1;leluha;6;26;
+maksim;dorojkin;ur320;0;19;4.9;11;1;2002;1;lenina;13;77;
+alexey;dobrohotov;iu7-32b;0;18;3.2;5;11;2002;0;5;804;
+aleksandr;dorohov;sm3-52b;0;19;4.25;17;2;2002;0;10;211;
+igor;lemeshev;e7-11b;0;18;3.66;5;5;2003;1;izmaylovo;5;16;
+kseniya;dengina;ur320;1;18;5;11;7;2003;1;7ya aviamotornaya;5;13;
